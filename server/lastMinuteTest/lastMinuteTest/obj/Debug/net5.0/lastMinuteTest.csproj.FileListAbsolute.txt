@@ -1,0 +1,32 @@
+C:\Users\User\source\repos\lastMinuteTest\lastMinuteTest\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\User\source\repos\lastMinuteTest\lastMinuteTest\bin\Debug\net5.0\appsettings.json
+C:\Users\User\source\repos\lastMinuteTest\lastMinuteTest\bin\Debug\net5.0\Raw_data OW.json
+C:\Users\User\source\repos\lastMinuteTest\lastMinuteTest\bin\Debug\net5.0\lastMinuteTest.exe
+C:\Users\User\source\repos\lastMinuteTest\lastMinuteTest\bin\Debug\net5.0\lastMinuteTest.deps.json
+C:\Users\User\source\repos\lastMinuteTest\lastMinuteTest\bin\Debug\net5.0\lastMinuteTest.runtimeconfig.json
+C:\Users\User\source\repos\lastMinuteTest\lastMinuteTest\bin\Debug\net5.0\lastMinuteTest.runtimeconfig.dev.json
+C:\Users\User\source\repos\lastMinuteTest\lastMinuteTest\bin\Debug\net5.0\lastMinuteTest.dll
+C:\Users\User\source\repos\lastMinuteTest\lastMinuteTest\bin\Debug\net5.0\ref\lastMinuteTest.dll
+C:\Users\User\source\repos\lastMinuteTest\lastMinuteTest\bin\Debug\net5.0\lastMinuteTest.pdb
+C:\Users\User\source\repos\lastMinuteTest\lastMinuteTest\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\User\source\repos\lastMinuteTest\lastMinuteTest\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\source\repos\lastMinuteTest\lastMinuteTest\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\source\repos\lastMinuteTest\lastMinuteTest\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\source\repos\lastMinuteTest\lastMinuteTest\obj\Debug\net5.0\lastMinuteTest.csprojAssemblyReference.cache
+C:\Users\User\source\repos\lastMinuteTest\lastMinuteTest\obj\Debug\net5.0\lastMinuteTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\lastMinuteTest\lastMinuteTest\obj\Debug\net5.0\lastMinuteTest.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\lastMinuteTest\lastMinuteTest\obj\Debug\net5.0\lastMinuteTest.AssemblyInfo.cs
+C:\Users\User\source\repos\lastMinuteTest\lastMinuteTest\obj\Debug\net5.0\lastMinuteTest.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\lastMinuteTest\lastMinuteTest\obj\Debug\net5.0\lastMinuteTest.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\source\repos\lastMinuteTest\lastMinuteTest\obj\Debug\net5.0\lastMinuteTest.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\source\repos\lastMinuteTest\lastMinuteTest\obj\Debug\net5.0\staticwebassets\lastMinuteTest.StaticWebAssets.Manifest.cache
+C:\Users\User\source\repos\lastMinuteTest\lastMinuteTest\obj\Debug\net5.0\staticwebassets\lastMinuteTest.StaticWebAssets.xml
+C:\Users\User\source\repos\lastMinuteTest\lastMinuteTest\obj\Debug\net5.0\scopedcss\bundle\lastMinuteTest.styles.css
+C:\Users\User\source\repos\lastMinuteTest\lastMinuteTest\obj\Debug\net5.0\lastMinuteTest.RazorTargetAssemblyInfo.cache
+C:\Users\User\source\repos\lastMinuteTest\lastMinuteTest\obj\Debug\net5.0\lastMinuteTest.csproj.CopyComplete
+C:\Users\User\source\repos\lastMinuteTest\lastMinuteTest\obj\Debug\net5.0\lastMinuteTest.dll
+C:\Users\User\source\repos\lastMinuteTest\lastMinuteTest\obj\Debug\net5.0\ref\lastMinuteTest.dll
+C:\Users\User\source\repos\lastMinuteTest\lastMinuteTest\obj\Debug\net5.0\lastMinuteTest.pdb
+C:\Users\User\source\repos\lastMinuteTest\lastMinuteTest\obj\Debug\net5.0\lastMinuteTest.genruntimeconfig.cache
+C:\Users\User\source\repos\lastMinuteTest\lastMinuteTest\bin\Debug\net5.0\Raw_data OW - 2pax .json
+C:\Users\User\source\repos\lastMinuteTest\lastMinuteTest\bin\Debug\net5.0\Raw_data RT - 2pax .json
